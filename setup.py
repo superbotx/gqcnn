@@ -41,7 +41,7 @@ requirements = [
 exec(open('gqcnn/version.py').read())
 
 setup(name='gqcnn', 
-      version=__version__, 
+      version='0.1.0', 
       description='Project code for running Grasp Quality Convolutional Neural Networks', 
       author='Vishal Satish', 
       author_email='vsatish@berkeley.edu', 
